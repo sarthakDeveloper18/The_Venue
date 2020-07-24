@@ -7,4 +7,4 @@
 5. React reveal
 6. React Scroll
 
-Hosted URL : auspicious-fowl.surge.sh
+[Hosted Url](auspicious-fowl.surge.sh)
