@@ -7,5 +7,4 @@
 5. React reveal
 6. React Scroll
 
-[Go to the Support Web Site](https://support.west-wind.com)
-[Hosted Url](auspicious-fowl.surge.sh)
+[Hosted Url](https://auspicious-fowl.surge.sh)
